@@ -1,0 +1,56 @@
+h1{
+    color: rgb(255, 166, 0);
+    background-color: blue;
+    height: 50px;
+
+}
+img{
+    width: 25%;
+    
+}
+p{
+    color:tomato;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Birthday{
+    font-size: 40px;
+    color: slateblue;
+}
+#Murgi{
+    font-size: 40px;
+    color: tomato;
+}
+.friends{
+    background-color: green;
+    font-size: 40px;
+    font-weight: 400;
+    
+}
+h1.friend{
+    background-color: rgb(255, 47, 210);
+    font-size: 45px;
+    font-weight: 800;
+}
+.office{
+    background-color: rgb(37, 15, 134);
+    color: lightseagreen;
+    font-size: 40px;
+    font-weight: 900;
+    height: 50px;
+
+}
+.blog{
+    border: 1px solid purple;
+    border-radius: 20px;
+    margin: 19px;
+    width: 30%;
+   float: left;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
